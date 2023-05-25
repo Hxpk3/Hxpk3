@@ -1,4 +1,4 @@
-### Hi there 👋
+#Tenho 17 anos e tenho a certeza q quero esta área de trabalho para minha vida, estou cursando Técnico em Desenvolvimento de sistemas no Senai Presidente Prudente
 
 <!--
 **Hxpk3/Hxpk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
